@@ -1,0 +1,14 @@
+* {
+    background-color: #0A0A0A;
+    color: hwb(0 100% 50%);
+}
+
+.recipe-title {
+    font-weight: bold;
+    text-align: center;
+}
+
+.recipe-image {
+    height: 400px;
+    width: 300px;
+}
